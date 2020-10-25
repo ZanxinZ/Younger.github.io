@@ -14,9 +14,9 @@ function login(uname="15382350839",password="Forever1%2B1") {
         }
     }
     request.open("GET",url,true);
-    request.setRequestHeader("Access-Control-Allow-Origin","true")
-    request.setRequestHeader("Access-Control-Allow-Credentials","true")
-    request.setRequestHeader("Access-Control-Allow-Headers","x-requested-with,content-type")
+    //request.setRequestHeader("Access-Control-Allow-Origin","true")
+    //request.setRequestHeader("Access-Control-Allow-Credentials","true")
+    //request.setRequestHeader("Access-Control-Allow-Headers","x-requested-with,content-type")
 
     //request.setRequestHeader("Host", "passport2-api.chaoxing.com");
     request.send();
