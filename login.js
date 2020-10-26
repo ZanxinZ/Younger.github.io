@@ -8,7 +8,7 @@ function login(uname="13757116490",password="5881563esjkb") {
     url="https://www.baidu.com";
     //url="ajax_info.txt";
 
-
+    console.log("ScriptGo")
     if(request.method=="OPTIONS")console.log("臭小子")
     else{
         console.log("没"+request.method)
