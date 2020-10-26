@@ -5,7 +5,7 @@ function login(uname="13757116490",password="5881563esjkb") {
 
 
     let url="https://passport2-api.chaoxing.com/v11/loginregister?code="+password+"&cx_xxt_passport=json&uname="+uname+"&loginType=1&roleSelect=true";
-    url="https://www.formular.xyz";
+    url="https://www.baidu.com";
     //url="ajax_info.txt";
 
 
