@@ -32,6 +32,6 @@ pip install kivy.deps.angle
 pip install --upgrade kivy
 ```
 
-运行之后可以看见下图，说明成功
+2.运行之后可以看见下图，说明成功
 ![avatar](img/kivySuccess.png)
-ss
+
